@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "PWA-Text-Editor",
+			"path": ".."
+		},
+		{
+			"name": "server",
+			"path": "../../../cautious-meme-main/Develop/server"
+		}
+	],
+	"settings": {}
+}
