@@ -101,7 +101,7 @@ npm start
 ## Links
 
 * GitHub Repo: [PWA Text Editor Repo](https://github.com/ceresmarkley/PWA-Text-Editor)
-* Deployed Heroku URL: [Text Editor!](https://tech-blog-v16-9f64c5daf8fc.herokuapp.com/)
+* Deployed Heroku URL: [Text Editor!](https://pwa-text-editor16-771a68457772.herokuapp.com/)
 
 
 ## License
